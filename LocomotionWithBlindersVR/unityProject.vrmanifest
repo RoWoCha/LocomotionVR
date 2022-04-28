@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.distancegrab.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\fesen\\Documents\\Champlain\\GameProgPortfolio\\LocomotionVR\\LocomotionWithBlindersVR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "LocomotionWIthBlinders [Testing]"
+        }
+      }
+    }
+  ]
+}
